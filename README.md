@@ -25,7 +25,7 @@ AI 写雅思作文还有另一个毛病：满篇 `In today's modern society` 和
 克隆到技能目录：
 
 ```bash
-git clone https://github.com/<your-name>/ielts-writing-coach.git \
+git clone https://github.com/Locus985/ielts-writing-coach.git \
   ~/.workbuddy/skills/ielts-writing-coach
 ```
 
